@@ -1,5 +1,7 @@
 # sudoxnym
 
+[![video preview](preview.gif)](https://www.youtube.com/watch?v=hYUvI5Njbbk)
+
 building daemons for a sovereign future.
 
 **current projects:**
